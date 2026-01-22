@@ -100,26 +100,3 @@
   <img src="https://img.shields.io/badge/Advanced%20Python-0ea5e9?style=for-the-badge"/>
 </p>
 
----
-
-<!-- ===================== JOURNEY ===================== -->
-
-## 🧭 Learning Journey (Engineered Path)
-
-```text
-2026 ─────────────────────────────────────────▶
-
-✔ Foundation Phase
-   • Python syntax, control flow, core logic
-   • Git & GitHub discipline
-   • Writing clean, readable code
-
-▶ Current Phase
-   • Python OOP, file handling, exceptions
-   • Data Structures & problem solving
-   • Designing reusable program structures
-
-⬆ Next Phase
-   • Python mini-projects (CLI & logic-driven)
-   • Interview-oriented DSA practice
-   • Open-source contribution fundamentals
